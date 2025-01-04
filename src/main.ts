@@ -33,7 +33,7 @@ async function run(): Promise<void> {
       await octokit.rest.repos.updateRelease({
         owner,
         repo,
-        release.id,
+        release_id:release.id,
         draft: false
 
       })
