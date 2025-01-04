@@ -14,7 +14,7 @@ inputs:
   
 runs:
   using: 'node16'
-  main: 'dist/index.js'
+  main: 'lib/main.js'
 branding:
   icon: 'tag'
   color: 'gray-dark'
