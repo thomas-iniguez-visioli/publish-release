@@ -1,4 +1,4 @@
-name: 'Publish a Release'
+name: 'Publish all Release'
 description: 'Publish an existing draft release'
 author: 'Stu Yarrow'
 inputs:
