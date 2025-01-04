@@ -2,7 +2,7 @@ name: 'Publish all Release'
 description: 'Publish an existing draft release'
 author: 'Stu Yarrow'
 inputs:
-    id:
+  id:
     description: 'The release id. This can be from the output of the actions/create-release action'
     required: false
   owner:
